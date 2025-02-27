@@ -1,0 +1,16 @@
+anciano_filosofo.png
+bg_debate.png
+bg_image.png
+bg_imagen_conclusion.png
+bg_inicio.png
+chofer_manejando.png
+chofer_reflexionando.png
+joven_idealista_asustada.png
+joven_idealista_pensando.png
+joven_idealista_reflexionando.png
+mujer_seria_asustada.png
+mujer_seria_pensando.png
+mujer_seria_reflexionando.png
+pasajero_nervioso_serio.png
+pasajero_serio_asustado.png
+pasajero_serio_nervioso.png
