@@ -16,3 +16,10 @@ Planteamientos:
 
 # Instalación
 Crear un proyecto nuevo y sobre-escribir los archivos
+
+# otros sitios con info
+https://github.com/commonsense/conceptnet5
+https://github.com/SALT-NLP/normbank
+https://huggingface.co/datasets/tau/commonsense_qa
+https://github.com/commonsense/conceptnet5/wiki/API
+
