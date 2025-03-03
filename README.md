@@ -15,7 +15,7 @@ Planteamientos:
 - Mover la palanca para matar a alguien en incorrecto porque o se puede tratar a una persona como un medio para un fin.
 
 # Instalación
-Crear un proyecto nuevo y sobre-escribir los archivos
+Crear un proyecto nuevo (en 1280x720) y sobre-escribir los archivos
 
 # otros sitios con info
 https://github.com/commonsense/conceptnet5
